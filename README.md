@@ -1,4 +1,3 @@
-# AutoU Mail Assistant
 
 Este projeto é uma prova de conceito completa para automatizar a leitura, classificação e resposta de e‑mails recebidos por uma grande empresa do setor financeiro. A solução tem como objetivo liberar tempo da equipe de atendimento, triando o alto volume de mensagens automaticamente e oferecendo sugestões de resposta de forma imediata.
 
